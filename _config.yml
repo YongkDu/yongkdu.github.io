@@ -335,7 +335,7 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - assets/img/
+    - assets/img/prof_pic
   input_formats:
     - ".jpg"
     - ".jpeg"
