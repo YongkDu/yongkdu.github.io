@@ -28,4 +28,4 @@ I have a broad interests in ML and NLP. My current research interests includes
 (3) Task adaptability and generalization.
 
 
-**Looking for Ph.D. opportunities in Fall 2024!**
+**Looking for Ph.D. opportunities starting from Fall 2024!**
