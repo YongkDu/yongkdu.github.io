@@ -22,6 +22,9 @@ Yongkang Du is a research assistant at the University of Southern California, ad
 Looking for Ph.D. opportunities in Fall 2024!
 
 I have a broad interests in ML and NLP. My current research interests includes:
+
 (1)Safety (fairness, privacy) and performance trade-off.
+
 (2)Efficient training strategy i.e., adaptive curriculum learning.
+
 (3)Task adaptability and generalization.
