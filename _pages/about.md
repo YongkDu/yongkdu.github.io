@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: twitter, github, email, googlescholar>
     
 
 news: true  # includes a list of news items
@@ -28,5 +28,4 @@ I have a broad interests in ML and NLP. My current research interests includes
 (3) Task adaptability and generalization.
 
 
-**Looking for Ph.D. opportunities in Fall 2024!
-**
+**Looking for Ph.D. opportunities in Fall 2024!**
