@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: twitter, github, email, googlescholar>
+  more_info: Los Angeles, California, USA>
     
 
 news: true  # includes a list of news items
