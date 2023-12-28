@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Los Angeles, California, USA>
+  more_info: Email: duyongka[at]usc[dot]edu
     
 
 news: true  # includes a list of news items
