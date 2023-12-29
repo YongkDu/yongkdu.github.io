@@ -7,4 +7,4 @@ nav: true
 nav_order: 5
 ---
 
-- Grader  CSCI544(Applied Natural Language Processing)  Fall 2022  USC
+- Grader&emsp;CSCI544(Applied Natural Language Processing)&emsp;Fall 2022&emsp;USC
