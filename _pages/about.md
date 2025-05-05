@@ -22,6 +22,6 @@ Yongkang Du is a first-year PhD student at [Penn State University](https://www.p
 His research interests lies in the trustworthiness of machine learning. Especially,
 
 - Fairness evaluation and bias mitigation.
-- Security and safety issues of LLMs.
+- Robutness and safety of code generation.
 
 **Open to collaboration and internship opportunities!**
