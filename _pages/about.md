@@ -22,6 +22,6 @@ Yongkang Du is a second-year PhD student at [Penn State University](https://www.
 His research interests lies in the trustworthiness of machine learning. Especially,
 
 - Visual Reasoning of MLLM.
-- Robutness and safety of code generation.
+- Robustness and safety of code generation.
 
 **Open to collaboration and internship opportunities!**
