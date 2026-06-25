@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to the **ACL 2026 TrustNLP workshop**! [Controllable Pareto Trade-off between Fairness and Accuracy](https://arxiv.org/abs/2509.13651)
+One paper accepted to the **ACL TrustNLP workshop**! [Controllable Pareto Trade-off between Fairness and Accuracy](https://arxiv.org/abs/2509.13651)
