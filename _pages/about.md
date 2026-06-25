@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: duyongka[at]gmail[dot]com
-    
+
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,9 +19,10 @@ social: false  # includes social icons at the bottom of the page
 
 Yongkang Du is a second-year PhD student at [Penn State University](https://www.psu.edu/), [College of IST](https://ist.psu.edu/), advised by Prof. [Lu Lin](https://louise-lulin.github.io/). He received his M.S. in computer science from [University of Southern California](https://www.usc.edu/) advised by Prof. [Jieyu Zhao](https://jyzhao.net/index.html) and B.E. in computer science and technology from [North China University of Technology](https://en.ncut.edu.cn/). His cv is available [here](../assets/pdf/cv_yongkang.pdf).
 
-His research interests lies in the trustworthiness of machine learning. Especially,
+His research interests lie in trustworthy AI, reasoning, multimodal systems, and agentic systems. Especially,
 
-- Visual Reasoning of MLLM.
-- Robustness and safety of code generation.
+- Visual reasoning of MLLMs.
+- Fairness and safety of LLMs in code generation.
+- Agentic systems for event forecasting.
 
 **Open to collaboration and internship opportunities!**
