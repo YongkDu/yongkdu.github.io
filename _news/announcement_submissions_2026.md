@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New papers under review: "CARV: A Diagnostic Benchmark for Compositional Analogical Reasoning in Multimodal LLMs" (COLM'26) and "FairCoder: Probing LLM Bias in High-Stakes Decision Making via Coding Tasks" (KDD'26).
+New paper out: [CARV: A Diagnostic Benchmark for Compositional Analogical Reasoning in Multimodal LLMs](https://arxiv.org/abs/2603.27958).
