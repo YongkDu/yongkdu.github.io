@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One papers accepted to the **EMNLP 2026**! From Narrative to Auditable Forecasts: A Structured Scaffold for Agentic Forecasting
+One papers accepted to the **EMNLP 2026**! [From Narrative to Auditable Forecasts: A Structured Scaffold for Agentic Forecasting](https://arxiv.org/abs/2609.05905)
